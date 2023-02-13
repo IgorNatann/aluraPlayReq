@@ -1,0 +1,5 @@
+Comando para Iniciar o Projeto Node
+
+0 - Primeiro Precisamos inicar o projeto com npm init
+1 - Após iniciar, vamos instalar o pacote 'JsonServer' = Npm install json-server
+2 - E por ulitmo vamos iniciar o servidor através do = npx json-server --watch db.json
